@@ -1,4 +1,4 @@
-![Guido Naselli, full-stack developer and systems thinker](./assets/profile-header.svg)
+![Guido Naselli, full-stack developer and systems thinker](./assets/profile-header-v2.svg)
 
 I build dependable digital products by connecting product thinking, clear interfaces and maintainable systems.
 
